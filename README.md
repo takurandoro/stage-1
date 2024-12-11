@@ -68,10 +68,5 @@ Follow these steps to set up the project locally:
 
 6. Access the application at `http://127.0.0.1:8000/`.
 
-## Future Enhancements
-- Implementing the API endpoints in the `api/` directory.
-- Adding authentication and authorization mechanisms.
-- Setting up a production database and deploying the project.
-
 ---
 Stay tuned for updates in Stage 2!
